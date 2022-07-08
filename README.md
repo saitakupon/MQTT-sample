@@ -190,7 +190,7 @@ if __name__ == '__main__':
 
 ## 実行結果
 
-
+https://user-images.githubusercontent.com/58939922/177941179-da1f730d-92b5-4a30-9802-775c10df176e.mov
 
 ## 参考
 How to use MQTT in Python (Paho) | EMQ 
